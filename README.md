@@ -11,6 +11,7 @@
 ![Julia](https://img.shields.io/badge/-julia-000?&logo=julia)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Latex](https://img.shields.io/badge/-latex-000?&logo=latex)
 
 ### Technologies
 
