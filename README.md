@@ -1,3 +1,7 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
