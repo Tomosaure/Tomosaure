@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![MatLab]("https://img.icons8.com/fluency/48/000000/matlab.png)
+![Matlab](https://img.shields.io/badge/-Python-000?&logo=Matlab)
 
 ### Technologies
 
