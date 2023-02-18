@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
 
 ### Technologies
 
@@ -19,7 +19,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Jupyter](https://user-images.githubusercontent.com/51937841/209330491-89c59d45-d0ef-4caf-aae6-f08bfdee4794.png)
-![VScode](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![VScode](https://img.shields.io/badge/-VScode-000?&logo=VScode)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Tomosaure&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomosaure&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
