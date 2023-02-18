@@ -5,12 +5,14 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Julia](https://img.shields.io/badge/-Julia-000?&logo=julia)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
 
 ### Technologies
