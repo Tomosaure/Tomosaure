@@ -10,6 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Julia](https://img.shields.io/badge/-julia-000?&logo=julia)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
+![Matlab](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/matlab-icon.png)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
 
