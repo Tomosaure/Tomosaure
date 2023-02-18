@@ -9,7 +9,7 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
+![Matlab](https://icons8.com/icon/r5Y16PcDkoWI/matlab)
 
 ### Technologies
 
