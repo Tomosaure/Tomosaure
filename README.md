@@ -11,7 +11,6 @@
 ![Julia](https://img.shields.io/badge/-julia-000?&logo=julia)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![OpenCV](https://img.shields.io/badge/-opencv-000?&logo=opencv)
 
 ### Technologies
 
@@ -21,6 +20,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-000?&logo=googlecolab)
+![OpenCV](https://img.shields.io/badge/-opencv-000?&logo=opencv)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=visualstudiocode)
