@@ -7,8 +7,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
 
 ### Technologies
 
@@ -16,6 +17,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-000?&logo=googlecolab)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=visualstudiocode)
