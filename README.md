@@ -11,6 +11,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
 
+
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
