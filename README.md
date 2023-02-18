@@ -17,6 +17,7 @@
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![OpenAI](https://img.shields.io/badge/-openai-000?&logo=openai)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-000?&logo=googlecolab)
