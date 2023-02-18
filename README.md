@@ -14,6 +14,7 @@
 
 ### Technologies
 
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
