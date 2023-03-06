@@ -24,7 +24,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-000?&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-000?&logo=googlecolab)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
